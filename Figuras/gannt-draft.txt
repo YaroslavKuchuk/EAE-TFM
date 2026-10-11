@@ -1,0 +1,56 @@
+@startgantt
+
+title Cronograma maestro del proyecto - Agencia Digital
+
+printscale monthly
+Project starts 2027-01-01
+
+[1.1 Dirección y gestión del proyecto] lasts 18 months
+
+[1.2 Modelo operativo e implantación] lasts 2 months
+
+[1.3 Constitución legal, administrativa y financiera] lasts 3 months
+
+[1.4 Organización y equipo] starts 2027-02-01
+[1.4 Organización y equipo] lasts 8 months
+
+[1.5 Catálogo de servicios y modelo de delivery] starts 2027-02-01
+[1.5 Catálogo de servicios y modelo de delivery] lasts 9 months
+
+[1.6 Plataforma tecnológica] starts 2027-02-01
+[1.6 Plataforma tecnológica] lasts 6 months
+
+[1.7 Procesos, calidad y gobierno] starts 2027-03-01
+[1.7 Procesos, calidad y gobierno] lasts 8 months
+
+[1.8 Capacidades comerciales y de marketing] starts 2027-04-01
+[1.8 Capacidades comerciales y de marketing] lasts 8 months
+
+[1.9.1 Preparación de proyectos piloto] starts 2027-10-01
+[1.9.1 Preparación de proyectos piloto] lasts 2 months
+
+[1.9.2-1.9.4 Ejecución de los tres pilotos] starts 2027-12-01
+[1.9.2-1.9.4 Ejecución de los tres pilotos] lasts 4 months
+
+[1.9.5 Evaluación de resultados] starts 2028-03-01
+[1.9.5 Evaluación de resultados] lasts 2 months
+
+[1.9.6 Identificación de mejoras] starts 2028-04-01
+[1.9.6 Identificación de mejoras] lasts 1 month
+
+[1.10.1 Implantación de mejoras] starts 2028-04-01
+[1.10.1 Implantación de mejoras] lasts 2 months
+
+[1.10.2 Validación de preparación operativa] starts 2028-05-01
+[1.10.2 Validación de preparación operativa] lasts 1 month
+
+[1.10.3-1.10.5 Transferencia a operaciones] starts 2028-05-01
+[1.10.3-1.10.5 Transferencia a operaciones] lasts 2 months
+
+[1.10.6 Aceptación de la transición] starts 2028-06-01
+[1.10.6 Aceptación de la transición] lasts 1 month
+
+[1.11 Cierre del proyecto] starts 2028-06-01
+[1.11 Cierre del proyecto] lasts 1 month
+
+@endgantt
