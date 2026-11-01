@@ -43,7 +43,7 @@
     <MoveCompletedEndsForward>0</MoveCompletedEndsForward>
     <BaselineForEarnedValue>0</BaselineForEarnedValue>
     <AutoAddNewResourcesAndTasks>1</AutoAddNewResourcesAndTasks>
-    <CurrentDate>2026-10-14T22:16:00</CurrentDate>
+    <CurrentDate>2026-11-01T19:30:00</CurrentDate>
     <MicrosoftProjectServerURL>1</MicrosoftProjectServerURL>
     <Autolink>1</Autolink>
     <NewTaskStartDate>0</NewTaskStartDate>
@@ -331,7 +331,7 @@
             <Name>Dirección y gestión del proyecto</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>1</OutlineNumber>
             <OutlineLevel>1</OutlineLevel>
@@ -376,7 +376,7 @@
             <Name>Formalización del inicio del proyecto</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>1.1</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -421,7 +421,7 @@
             <Name>Identificación y análisis de stakeholders</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>1.2</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -471,7 +471,7 @@
             <Name>Elaboración del plan de dirección del proyecto</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>1.3</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -521,7 +521,7 @@
             <Name>Aprobación del plan de dirección</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>1.4</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -571,7 +571,7 @@
             <Name>Seguimiento y control integrado</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>1.5</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -621,7 +621,7 @@
             <Name>Gestión de cambios y riesgos</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>1.6</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -671,7 +671,7 @@
             <Name>Modelo operativo y planificación de la implantación</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>2</OutlineNumber>
             <OutlineLevel>1</OutlineLevel>
@@ -716,7 +716,7 @@
             <Name>Análisis del modelo de negocio y requisitos operativos</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>2.1</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -766,7 +766,7 @@
             <Name>Definición de la estructura organizativa</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>2.2</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -816,7 +816,7 @@
             <Name>Diseño del modelo operativo</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>2.3</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -866,7 +866,7 @@
             <Name>Elaboración del plan de implantación</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>2.4</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -916,7 +916,7 @@
             <Name>Validación y aprobación del modelo operativo</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>2.5</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -966,7 +966,7 @@
             <Name>Constitución legal, administrativa y financiera</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>3</OutlineNumber>
             <OutlineLevel>1</OutlineLevel>
@@ -1011,7 +1011,7 @@
             <Name>Definición de la forma jurídica y estructura societaria</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>3.1</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -1061,7 +1061,7 @@
             <Name>Preparación de la documentación de constitución</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>3.2</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -1111,7 +1111,7 @@
             <Name>Formalización notarial e inscripción registral</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>3.3</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -1161,7 +1161,7 @@
             <Name>Altas fiscales, laborales y administrativas</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>3.4</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -1211,7 +1211,7 @@
             <Name>Apertura de cuentas y configuración financiera</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>3.5</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -1261,7 +1261,7 @@
             <Name>Preparación de contratos y procedimientos administrativos</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>3.6</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -1311,7 +1311,7 @@
             <Name>Organización y equipo</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>4</OutlineNumber>
             <OutlineLevel>1</OutlineLevel>
@@ -1356,7 +1356,7 @@
             <Name>Definición de perfiles, roles y responsabilidades</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>4.1</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -1406,7 +1406,7 @@
             <Name>Elaboración del plan de contratación</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>4.2</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -1456,7 +1456,7 @@
             <Name>Selección y contratación del equipo inicial</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>4.3</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -1511,7 +1511,7 @@
             <Name>Incorporación y onboarding del personal</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>4.4</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -1561,7 +1561,7 @@
             <Name>Formación en procesos, herramientas y metodologías</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>4.5</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -1611,7 +1611,7 @@
             <Name>Validación de la preparación operativa del equipo</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>4.6</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -1661,7 +1661,7 @@
             <Name>Catálogo de servicios y modelo de delivery</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>5</OutlineNumber>
             <OutlineLevel>1</OutlineLevel>
@@ -1706,7 +1706,7 @@
             <Name>Definición de las cinco líneas de servicio</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>5.1</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -1756,7 +1756,7 @@
             <Name>Diseño del catálogo de servicios y entregables</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>5.2</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -1806,7 +1806,7 @@
             <Name>Definición del modelo de estimación y presupuestación</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>5.3</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -1856,7 +1856,7 @@
             <Name>Diseño del modelo de delivery y gestión de proyectos</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>5.4</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -1906,7 +1906,7 @@
             <Name>Elaboración de plantillas y estándares de entrega</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>5.5</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -1956,7 +1956,7 @@
             <Name>Validación y aprobación del catálogo y modelo de delivery</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>5.6</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -2006,7 +2006,7 @@
             <Name>Plataforma tecnológica</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>6</OutlineNumber>
             <OutlineLevel>1</OutlineLevel>
@@ -2051,7 +2051,7 @@
             <Name>Definición de requisitos tecnológicos y arquitectura de referencia</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>6.1</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -2101,7 +2101,7 @@
             <Name>Selección de proveedores cloud y herramientas tecnológicas</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>6.2</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -2151,7 +2151,7 @@
             <Name>Configuración de infraestructura cloud y entornos de trabajo</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>6.3</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -2201,7 +2201,7 @@
             <Name>Implantación de repositorios y pipelines CI/CD</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>6.4</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -2251,7 +2251,7 @@
             <Name>Configuración de herramientas de gestión y documentación</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>6.5</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -2301,7 +2301,7 @@
             <Name>Implantación de herramientas de testing y control de calidad</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>6.6</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -2351,7 +2351,7 @@
             <Name>Configuración de monitorización, seguridad y copias de seguridad</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>6.7</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -2401,7 +2401,7 @@
             <Name>Pruebas de integración y validación de la plataforma tecnológica</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>6.8</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -2451,7 +2451,7 @@
             <Name>Procesos, calidad y gobernio</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>7</OutlineNumber>
             <OutlineLevel>1</OutlineLevel>
@@ -2496,7 +2496,7 @@
             <Name>Definición del modelo de gobierno y responsabilidades</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>7.1</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -2546,7 +2546,7 @@
             <Name>Diseño de procesos de gestión de proyectos</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>7.2</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -2596,7 +2596,7 @@
             <Name>Definición de estándares de calidad y criterios de aceptación</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>7.3</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -2646,7 +2646,7 @@
             <Name>Diseño de procesos de gestión de riesgos y cambios</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>7.4</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -2696,7 +2696,7 @@
             <Name>Definición de políticas de seguridad y protección de datos</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>7.5</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -2746,7 +2746,7 @@
             <Name>Implantación de procesos de documentación y gestión del conocimiento</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>7.6</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -2796,7 +2796,7 @@
             <Name>Configuración de indicadores KPI y mecanismos de seguimiento</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>7.7</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -2846,7 +2846,7 @@
             <Name>Validación y aprobación del sistema de procesos y gobierno</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>7.8</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -2896,7 +2896,7 @@
             <Name>Capacidades comerciales y de marketing</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>8</OutlineNumber>
             <OutlineLevel>1</OutlineLevel>
@@ -2941,7 +2941,7 @@
             <Name>Definición de la estrategia comercial y posicionamiento de mercado</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>8.1</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -2991,7 +2991,7 @@
             <Name>Desarrollo de la identidad corporativa y materiales de marca</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>8.2</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -3041,7 +3041,7 @@
             <Name>Diseño y desarrollo del sitio web corporativo</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>8.3</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -3091,7 +3091,7 @@
             <Name>Selección y configuración del sistema CRM</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>8.4</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -3141,7 +3141,7 @@
             <Name>Elaboración de propuestas comerciales y materiales de ventas</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>8.5</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -3191,7 +3191,7 @@
             <Name>Definición de procesos comerciales y gestión de clientes</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>8.6</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -3241,7 +3241,7 @@
             <Name>Preparación de canales digitales y herramientas de marketing</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>8.7</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -3291,7 +3291,7 @@
             <Name>Validación y aprobación de las capacidades comerciales</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>8.8</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -3341,7 +3341,7 @@
             <Name>Proyectos piloto</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>9</OutlineNumber>
             <OutlineLevel>1</OutlineLevel>
@@ -3386,7 +3386,7 @@
             <Name>Confirmación del alcance y requisitos de los tres proyectos piloto</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>9.1</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -3436,7 +3436,7 @@
             <Name>Planificación detallada de los proyectos piloto</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>9.2</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -3486,7 +3486,7 @@
             <Name>Preparación de equipos y entornos de ejecución</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>9.3</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -3561,7 +3561,7 @@
             <Name>Ejecución del proyecto piloto 1</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>9.4</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -3611,7 +3611,7 @@
             <Name>Ejecución del proyecto piloto 2</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>9.5</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -3661,7 +3661,7 @@
             <Name>Ejecución del proyecto piloto 3</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>9.6</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -3711,7 +3711,7 @@
             <Name>Evaluación de resultados y recopilación de indicadores KPI</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>9.7</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -3771,7 +3771,7 @@
             <Name>Validación y aceptación formal de los tres proyectos piloto</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>9.8</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -3821,7 +3821,7 @@
             <Name>Validación y transición a operaciones</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>10</OutlineNumber>
             <OutlineLevel>1</OutlineLevel>
@@ -3838,7 +3838,7 @@
             <Estimated>1</Estimated>
             <Milestone>0</Milestone>
             <Summary>1</Summary>
-            <Critical>1</Critical>
+            <Critical>0</Critical>
             <IsSubproject>0</IsSubproject>
             <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
             <ExternalTask>0</ExternalTask>
@@ -3866,7 +3866,7 @@
             <Name>Evaluación integral de los resultados del proyecto</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>10.1</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -3916,7 +3916,7 @@
             <Name>Verificación del cumplimiento de los objetivos y criterios de aceptación</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>10.2</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -3966,7 +3966,7 @@
             <Name>Preparación de la documentación de transición a operaciones</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>10.3</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -4016,7 +4016,7 @@
             <Name>Transferencia de conocimientos y responsabilidades al equipo operativo</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>10.4</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -4066,7 +4066,7 @@
             <Name>Validación de la preparación operativa de la agencia</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>10.5</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -4116,7 +4116,7 @@
             <Name>Aprobación formal de la transición a operaciones</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>10.6</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -4163,10 +4163,59 @@
         <Task>
             <UID>78</UID>
             <ID>78</ID>
+            <Name>Transición formal a operaciones aprobada</Name>
+            <Type>0</Type>
+            <IsNull>0</IsNull>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
+            <WBS></WBS>
+            <OutlineNumber>10.7</OutlineNumber>
+            <OutlineLevel>2</OutlineLevel>
+            <Priority>500</Priority>
+            <Start>2028-04-21T17:00:00</Start>
+            <Finish>2028-04-21T17:00:00</Finish>
+            <Duration>PT0H0M0S</Duration>
+            <DurationFormat>7</DurationFormat>
+            <Resume>2028-04-21T17:00:00</Resume>
+            <ResumeValid>0</ResumeValid>
+            <EffortDriven>1</EffortDriven>
+            <Recurring>0</Recurring>
+            <OverAllocated>0</OverAllocated>
+            <Estimated>0</Estimated>
+            <Milestone>0</Milestone>
+            <Summary>0</Summary>
+            <Critical>0</Critical>
+            <IsSubproject>0</IsSubproject>
+            <IsSubprojectReadOnly>0</IsSubprojectReadOnly>
+            <ExternalTask>0</ExternalTask>
+            <FixedCostAccrual>2</FixedCostAccrual>
+            <PercentComplete>0</PercentComplete>
+            <PercentWorkComplete>0</PercentWorkComplete>
+            <ConstraintType>4</ConstraintType>
+            <CalendarUID>-1</CalendarUID>
+            <ConstraintDate>2028-04-21T07:00:00</ConstraintDate>
+            <LevelAssignments>0</LevelAssignments>
+            <LevelingCanSplit>0</LevelingCanSplit>
+            <LevelingDelay>0</LevelingDelay>
+            <LevelingDelayFormat>7</LevelingDelayFormat>
+            <IgnoreResourceCalendar>0</IgnoreResourceCalendar>
+            <HideBar>0</HideBar>
+            <Rollup>0</Rollup>
+            <EarnedValueMethod>0</EarnedValueMethod>
+            <PredecessorLink>
+                <PredecessorUID>77</PredecessorUID>
+                <Type>1</Type>
+                <CrossProject>0</CrossProject>
+            </PredecessorLink>
+            <Active>1</Active>
+            <Manual>0</Manual>
+        </Task>
+        <Task>
+            <UID>79</UID>
+            <ID>79</ID>
             <Name>Cierre del proyecto</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>11</OutlineNumber>
             <OutlineLevel>1</OutlineLevel>
@@ -4206,12 +4255,12 @@
             <Manual>0</Manual>
         </Task>
         <Task>
-            <UID>79</UID>
-            <ID>79</ID>
+            <UID>80</UID>
+            <ID>80</ID>
             <Name>Verificación final de entregables y compromisos contractuales</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>11.1</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -4248,7 +4297,7 @@
             <Rollup>0</Rollup>
             <EarnedValueMethod>0</EarnedValueMethod>
             <PredecessorLink>
-                <PredecessorUID>77</PredecessorUID>
+                <PredecessorUID>78</PredecessorUID>
                 <Type>1</Type>
                 <CrossProject>0</CrossProject>
             </PredecessorLink>
@@ -4256,12 +4305,12 @@
             <Manual>0</Manual>
         </Task>
         <Task>
-            <UID>80</UID>
-            <ID>80</ID>
+            <UID>81</UID>
+            <ID>81</ID>
             <Name>Evaluación final del presupuesto, cronograma y desempeño</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>11.2</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -4298,7 +4347,7 @@
             <Rollup>0</Rollup>
             <EarnedValueMethod>0</EarnedValueMethod>
             <PredecessorLink>
-                <PredecessorUID>79</PredecessorUID>
+                <PredecessorUID>80</PredecessorUID>
                 <Type>1</Type>
                 <CrossProject>0</CrossProject>
             </PredecessorLink>
@@ -4306,12 +4355,12 @@
             <Manual>0</Manual>
         </Task>
         <Task>
-            <UID>81</UID>
-            <ID>81</ID>
+            <UID>82</UID>
+            <ID>82</ID>
             <Name>Elaboración del informe final del proyecto</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>11.3</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -4348,7 +4397,7 @@
             <Rollup>0</Rollup>
             <EarnedValueMethod>0</EarnedValueMethod>
             <PredecessorLink>
-                <PredecessorUID>80</PredecessorUID>
+                <PredecessorUID>81</PredecessorUID>
                 <Type>1</Type>
                 <CrossProject>0</CrossProject>
             </PredecessorLink>
@@ -4356,12 +4405,12 @@
             <Manual>0</Manual>
         </Task>
         <Task>
-            <UID>82</UID>
-            <ID>82</ID>
+            <UID>83</UID>
+            <ID>83</ID>
             <Name>Documentación de lecciones aprendidas y recomendaciones</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>11.4</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -4398,7 +4447,7 @@
             <Rollup>0</Rollup>
             <EarnedValueMethod>0</EarnedValueMethod>
             <PredecessorLink>
-                <PredecessorUID>81</PredecessorUID>
+                <PredecessorUID>82</PredecessorUID>
                 <Type>1</Type>
                 <CrossProject>0</CrossProject>
             </PredecessorLink>
@@ -4406,12 +4455,12 @@
             <Manual>0</Manual>
         </Task>
         <Task>
-            <UID>83</UID>
-            <ID>83</ID>
+            <UID>84</UID>
+            <ID>84</ID>
             <Name>Cierre administrativo, financiero y contractual</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>11.5</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -4448,7 +4497,7 @@
             <Rollup>0</Rollup>
             <EarnedValueMethod>0</EarnedValueMethod>
             <PredecessorLink>
-                <PredecessorUID>82</PredecessorUID>
+                <PredecessorUID>83</PredecessorUID>
                 <Type>1</Type>
                 <CrossProject>0</CrossProject>
             </PredecessorLink>
@@ -4456,12 +4505,12 @@
             <Manual>0</Manual>
         </Task>
         <Task>
-            <UID>84</UID>
-            <ID>84</ID>
+            <UID>85</UID>
+            <ID>85</ID>
             <Name>Presentación y aprobación del acta de cierre del proyecto</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
-            <CreateDate>2026-10-14T21:51:00</CreateDate>
+            <CreateDate>2026-11-01T19:26:00</CreateDate>
             <WBS></WBS>
             <OutlineNumber>11.6</OutlineNumber>
             <OutlineLevel>2</OutlineLevel>
@@ -4498,7 +4547,7 @@
             <Rollup>0</Rollup>
             <EarnedValueMethod>0</EarnedValueMethod>
             <PredecessorLink>
-                <PredecessorUID>83</PredecessorUID>
+                <PredecessorUID>84</PredecessorUID>
                 <Type>1</Type>
                 <CrossProject>0</CrossProject>
             </PredecessorLink>
@@ -19354,6 +19403,19 @@
             <UID>80</UID>
             <TaskUID>78</TaskUID>
             <ResourceUID>-65535</ResourceUID>
+            <Finish>2028-04-21T17:00:00</Finish>
+            <HasFixedRateUnits>1</HasFixedRateUnits>
+            <FixedMaterial>0</FixedMaterial>
+            <Start>2028-04-21T17:00:00</Start>
+            <Stop>1970-01-01T01:00:00</Stop>
+            <Resume>2028-04-21T17:00:00</Resume>
+            <Units>1</Units>
+            <WorkContour>0</WorkContour>
+        </Assignment>
+        <Assignment>
+            <UID>81</UID>
+            <TaskUID>79</TaskUID>
+            <ResourceUID>-65535</ResourceUID>
             <Finish>2028-06-16T17:00:00</Finish>
             <HasFixedRateUnits>1</HasFixedRateUnits>
             <FixedMaterial>0</FixedMaterial>
@@ -19366,7 +19428,7 @@
             <WorkContour>0</WorkContour>
             <TimephasedData>
                 <Type>1</Type>
-                <UID>80</UID>
+                <UID>81</UID>
                 <Start>2028-04-24T08:00:00</Start>
                 <Finish>2028-04-25T02:00:00</Finish>
                 <Unit>3</Unit>
@@ -19374,8 +19436,8 @@
             </TimephasedData>
         </Assignment>
         <Assignment>
-            <UID>81</UID>
-            <TaskUID>79</TaskUID>
+            <UID>82</UID>
+            <TaskUID>80</TaskUID>
             <ResourceUID>1</ResourceUID>
             <Finish>2028-04-28T17:00:00</Finish>
             <HasFixedRateUnits>1</HasFixedRateUnits>
@@ -19389,7 +19451,7 @@
             <WorkContour>0</WorkContour>
             <TimephasedData>
                 <Type>1</Type>
-                <UID>81</UID>
+                <UID>82</UID>
                 <Start>2028-04-24T08:00:00</Start>
                 <Finish>2028-04-25T08:00:00</Finish>
                 <Unit>3</Unit>
@@ -19397,7 +19459,7 @@
             </TimephasedData>
             <TimephasedData>
                 <Type>1</Type>
-                <UID>81</UID>
+                <UID>82</UID>
                 <Start>2028-04-25T08:00:00</Start>
                 <Finish>2028-04-26T08:00:00</Finish>
                 <Unit>3</Unit>
@@ -19405,7 +19467,7 @@
             </TimephasedData>
             <TimephasedData>
                 <Type>1</Type>
-                <UID>81</UID>
+                <UID>82</UID>
                 <Start>2028-04-26T08:00:00</Start>
                 <Finish>2028-04-27T08:00:00</Finish>
                 <Unit>3</Unit>
@@ -19413,7 +19475,7 @@
             </TimephasedData>
             <TimephasedData>
                 <Type>1</Type>
-                <UID>81</UID>
+                <UID>82</UID>
                 <Start>2028-04-27T08:00:00</Start>
                 <Finish>2028-04-28T08:00:00</Finish>
                 <Unit>3</Unit>
@@ -19421,7 +19483,7 @@
             </TimephasedData>
             <TimephasedData>
                 <Type>1</Type>
-                <UID>81</UID>
+                <UID>82</UID>
                 <Start>2028-04-28T08:00:00</Start>
                 <Finish>2028-04-29T02:00:00</Finish>
                 <Unit>3</Unit>
@@ -19429,8 +19491,8 @@
             </TimephasedData>
         </Assignment>
         <Assignment>
-            <UID>82</UID>
-            <TaskUID>80</TaskUID>
+            <UID>83</UID>
+            <TaskUID>81</TaskUID>
             <ResourceUID>1</ResourceUID>
             <Finish>2028-05-05T17:00:00</Finish>
             <HasFixedRateUnits>1</HasFixedRateUnits>
@@ -19444,7 +19506,7 @@
             <WorkContour>0</WorkContour>
             <TimephasedData>
                 <Type>1</Type>
-                <UID>82</UID>
+                <UID>83</UID>
                 <Start>2028-05-01T08:00:00</Start>
                 <Finish>2028-05-02T08:00:00</Finish>
                 <Unit>3</Unit>
@@ -19452,7 +19514,7 @@
             </TimephasedData>
             <TimephasedData>
                 <Type>1</Type>
-                <UID>82</UID>
+                <UID>83</UID>
                 <Start>2028-05-02T08:00:00</Start>
                 <Finish>2028-05-03T08:00:00</Finish>
                 <Unit>3</Unit>
@@ -19460,7 +19522,7 @@
             </TimephasedData>
             <TimephasedData>
                 <Type>1</Type>
-                <UID>82</UID>
+                <UID>83</UID>
                 <Start>2028-05-03T08:00:00</Start>
                 <Finish>2028-05-04T08:00:00</Finish>
                 <Unit>3</Unit>
@@ -19468,7 +19530,7 @@
             </TimephasedData>
             <TimephasedData>
                 <Type>1</Type>
-                <UID>82</UID>
+                <UID>83</UID>
                 <Start>2028-05-04T08:00:00</Start>
                 <Finish>2028-05-05T08:00:00</Finish>
                 <Unit>3</Unit>
@@ -19476,7 +19538,7 @@
             </TimephasedData>
             <TimephasedData>
                 <Type>1</Type>
-                <UID>82</UID>
+                <UID>83</UID>
                 <Start>2028-05-05T08:00:00</Start>
                 <Finish>2028-05-06T02:00:00</Finish>
                 <Unit>3</Unit>
@@ -19484,8 +19546,8 @@
             </TimephasedData>
         </Assignment>
         <Assignment>
-            <UID>83</UID>
-            <TaskUID>81</TaskUID>
+            <UID>84</UID>
+            <TaskUID>82</TaskUID>
             <ResourceUID>1</ResourceUID>
             <Finish>2028-05-19T17:00:00</Finish>
             <HasFixedRateUnits>1</HasFixedRateUnits>
@@ -19499,7 +19561,7 @@
             <WorkContour>0</WorkContour>
             <TimephasedData>
                 <Type>1</Type>
-                <UID>83</UID>
+                <UID>84</UID>
                 <Start>2028-05-08T08:00:00</Start>
                 <Finish>2028-05-09T08:00:00</Finish>
                 <Unit>3</Unit>
@@ -19507,7 +19569,7 @@
             </TimephasedData>
             <TimephasedData>
                 <Type>1</Type>
-                <UID>83</UID>
+                <UID>84</UID>
                 <Start>2028-05-09T08:00:00</Start>
                 <Finish>2028-05-10T08:00:00</Finish>
                 <Unit>3</Unit>
@@ -19515,7 +19577,7 @@
             </TimephasedData>
             <TimephasedData>
                 <Type>1</Type>
-                <UID>83</UID>
+                <UID>84</UID>
                 <Start>2028-05-10T08:00:00</Start>
                 <Finish>2028-05-11T08:00:00</Finish>
                 <Unit>3</Unit>
@@ -19523,7 +19585,7 @@
             </TimephasedData>
             <TimephasedData>
                 <Type>1</Type>
-                <UID>83</UID>
+                <UID>84</UID>
                 <Start>2028-05-11T08:00:00</Start>
                 <Finish>2028-05-12T08:00:00</Finish>
                 <Unit>3</Unit>
@@ -19531,7 +19593,7 @@
             </TimephasedData>
             <TimephasedData>
                 <Type>1</Type>
-                <UID>83</UID>
+                <UID>84</UID>
                 <Start>2028-05-12T08:00:00</Start>
                 <Finish>2028-05-13T08:00:00</Finish>
                 <Unit>3</Unit>
@@ -19539,7 +19601,7 @@
             </TimephasedData>
             <TimephasedData>
                 <Type>1</Type>
-                <UID>83</UID>
+                <UID>84</UID>
                 <Start>2028-05-15T08:00:00</Start>
                 <Finish>2028-05-16T08:00:00</Finish>
                 <Unit>3</Unit>
@@ -19547,7 +19609,7 @@
             </TimephasedData>
             <TimephasedData>
                 <Type>1</Type>
-                <UID>83</UID>
+                <UID>84</UID>
                 <Start>2028-05-16T08:00:00</Start>
                 <Finish>2028-05-17T08:00:00</Finish>
                 <Unit>3</Unit>
@@ -19555,7 +19617,7 @@
             </TimephasedData>
             <TimephasedData>
                 <Type>1</Type>
-                <UID>83</UID>
+                <UID>84</UID>
                 <Start>2028-05-17T08:00:00</Start>
                 <Finish>2028-05-18T08:00:00</Finish>
                 <Unit>3</Unit>
@@ -19563,7 +19625,7 @@
             </TimephasedData>
             <TimephasedData>
                 <Type>1</Type>
-                <UID>83</UID>
+                <UID>84</UID>
                 <Start>2028-05-18T08:00:00</Start>
                 <Finish>2028-05-19T08:00:00</Finish>
                 <Unit>3</Unit>
@@ -19571,7 +19633,7 @@
             </TimephasedData>
             <TimephasedData>
                 <Type>1</Type>
-                <UID>83</UID>
+                <UID>84</UID>
                 <Start>2028-05-19T08:00:00</Start>
                 <Finish>2028-05-20T02:00:00</Finish>
                 <Unit>3</Unit>
@@ -19579,8 +19641,8 @@
             </TimephasedData>
         </Assignment>
         <Assignment>
-            <UID>84</UID>
-            <TaskUID>82</TaskUID>
+            <UID>85</UID>
+            <TaskUID>83</TaskUID>
             <ResourceUID>1</ResourceUID>
             <Finish>2028-05-26T17:00:00</Finish>
             <HasFixedRateUnits>1</HasFixedRateUnits>
@@ -19594,7 +19656,7 @@
             <WorkContour>0</WorkContour>
             <TimephasedData>
                 <Type>1</Type>
-                <UID>84</UID>
+                <UID>85</UID>
                 <Start>2028-05-22T08:00:00</Start>
                 <Finish>2028-05-23T08:00:00</Finish>
                 <Unit>3</Unit>
@@ -19602,7 +19664,7 @@
             </TimephasedData>
             <TimephasedData>
                 <Type>1</Type>
-                <UID>84</UID>
+                <UID>85</UID>
                 <Start>2028-05-23T08:00:00</Start>
                 <Finish>2028-05-24T08:00:00</Finish>
                 <Unit>3</Unit>
@@ -19610,7 +19672,7 @@
             </TimephasedData>
             <TimephasedData>
                 <Type>1</Type>
-                <UID>84</UID>
+                <UID>85</UID>
                 <Start>2028-05-24T08:00:00</Start>
                 <Finish>2028-05-25T08:00:00</Finish>
                 <Unit>3</Unit>
@@ -19618,7 +19680,7 @@
             </TimephasedData>
             <TimephasedData>
                 <Type>1</Type>
-                <UID>84</UID>
+                <UID>85</UID>
                 <Start>2028-05-25T08:00:00</Start>
                 <Finish>2028-05-26T08:00:00</Finish>
                 <Unit>3</Unit>
@@ -19626,7 +19688,7 @@
             </TimephasedData>
             <TimephasedData>
                 <Type>1</Type>
-                <UID>84</UID>
+                <UID>85</UID>
                 <Start>2028-05-26T08:00:00</Start>
                 <Finish>2028-05-27T02:00:00</Finish>
                 <Unit>3</Unit>
@@ -19634,8 +19696,8 @@
             </TimephasedData>
         </Assignment>
         <Assignment>
-            <UID>85</UID>
-            <TaskUID>83</TaskUID>
+            <UID>86</UID>
+            <TaskUID>84</TaskUID>
             <ResourceUID>4</ResourceUID>
             <Finish>2028-06-09T17:00:00</Finish>
             <HasFixedRateUnits>1</HasFixedRateUnits>
@@ -19649,7 +19711,7 @@
             <WorkContour>0</WorkContour>
             <TimephasedData>
                 <Type>1</Type>
-                <UID>85</UID>
+                <UID>86</UID>
                 <Start>2028-05-29T08:00:00</Start>
                 <Finish>2028-05-30T08:00:00</Finish>
                 <Unit>3</Unit>
@@ -19657,7 +19719,7 @@
             </TimephasedData>
             <TimephasedData>
                 <Type>1</Type>
-                <UID>85</UID>
+                <UID>86</UID>
                 <Start>2028-05-30T08:00:00</Start>
                 <Finish>2028-05-31T08:00:00</Finish>
                 <Unit>3</Unit>
@@ -19665,7 +19727,7 @@
             </TimephasedData>
             <TimephasedData>
                 <Type>1</Type>
-                <UID>85</UID>
+                <UID>86</UID>
                 <Start>2028-05-31T08:00:00</Start>
                 <Finish>2028-06-01T08:00:00</Finish>
                 <Unit>3</Unit>
@@ -19673,7 +19735,7 @@
             </TimephasedData>
             <TimephasedData>
                 <Type>1</Type>
-                <UID>85</UID>
+                <UID>86</UID>
                 <Start>2028-06-01T08:00:00</Start>
                 <Finish>2028-06-02T08:00:00</Finish>
                 <Unit>3</Unit>
@@ -19681,7 +19743,7 @@
             </TimephasedData>
             <TimephasedData>
                 <Type>1</Type>
-                <UID>85</UID>
+                <UID>86</UID>
                 <Start>2028-06-02T08:00:00</Start>
                 <Finish>2028-06-03T08:00:00</Finish>
                 <Unit>3</Unit>
@@ -19689,7 +19751,7 @@
             </TimephasedData>
             <TimephasedData>
                 <Type>1</Type>
-                <UID>85</UID>
+                <UID>86</UID>
                 <Start>2028-06-05T08:00:00</Start>
                 <Finish>2028-06-06T08:00:00</Finish>
                 <Unit>3</Unit>
@@ -19697,7 +19759,7 @@
             </TimephasedData>
             <TimephasedData>
                 <Type>1</Type>
-                <UID>85</UID>
+                <UID>86</UID>
                 <Start>2028-06-06T08:00:00</Start>
                 <Finish>2028-06-07T08:00:00</Finish>
                 <Unit>3</Unit>
@@ -19705,7 +19767,7 @@
             </TimephasedData>
             <TimephasedData>
                 <Type>1</Type>
-                <UID>85</UID>
+                <UID>86</UID>
                 <Start>2028-06-07T08:00:00</Start>
                 <Finish>2028-06-08T08:00:00</Finish>
                 <Unit>3</Unit>
@@ -19713,7 +19775,7 @@
             </TimephasedData>
             <TimephasedData>
                 <Type>1</Type>
-                <UID>85</UID>
+                <UID>86</UID>
                 <Start>2028-06-08T08:00:00</Start>
                 <Finish>2028-06-09T08:00:00</Finish>
                 <Unit>3</Unit>
@@ -19721,7 +19783,7 @@
             </TimephasedData>
             <TimephasedData>
                 <Type>1</Type>
-                <UID>85</UID>
+                <UID>86</UID>
                 <Start>2028-06-09T08:00:00</Start>
                 <Finish>2028-06-10T02:00:00</Finish>
                 <Unit>3</Unit>
@@ -19729,8 +19791,8 @@
             </TimephasedData>
         </Assignment>
         <Assignment>
-            <UID>86</UID>
-            <TaskUID>84</TaskUID>
+            <UID>87</UID>
+            <TaskUID>85</TaskUID>
             <ResourceUID>2</ResourceUID>
             <Finish>2028-06-16T17:00:00</Finish>
             <HasFixedRateUnits>1</HasFixedRateUnits>
@@ -19744,7 +19806,7 @@
             <WorkContour>0</WorkContour>
             <TimephasedData>
                 <Type>1</Type>
-                <UID>86</UID>
+                <UID>87</UID>
                 <Start>2028-06-12T08:00:00</Start>
                 <Finish>2028-06-13T08:00:00</Finish>
                 <Unit>3</Unit>
@@ -19752,7 +19814,7 @@
             </TimephasedData>
             <TimephasedData>
                 <Type>1</Type>
-                <UID>86</UID>
+                <UID>87</UID>
                 <Start>2028-06-13T08:00:00</Start>
                 <Finish>2028-06-14T08:00:00</Finish>
                 <Unit>3</Unit>
@@ -19760,7 +19822,7 @@
             </TimephasedData>
             <TimephasedData>
                 <Type>1</Type>
-                <UID>86</UID>
+                <UID>87</UID>
                 <Start>2028-06-14T08:00:00</Start>
                 <Finish>2028-06-15T08:00:00</Finish>
                 <Unit>3</Unit>
@@ -19768,7 +19830,7 @@
             </TimephasedData>
             <TimephasedData>
                 <Type>1</Type>
-                <UID>86</UID>
+                <UID>87</UID>
                 <Start>2028-06-15T08:00:00</Start>
                 <Finish>2028-06-16T08:00:00</Finish>
                 <Unit>3</Unit>
@@ -19776,7 +19838,7 @@
             </TimephasedData>
             <TimephasedData>
                 <Type>1</Type>
-                <UID>86</UID>
+                <UID>87</UID>
                 <Start>2028-06-16T08:00:00</Start>
                 <Finish>2028-06-17T02:00:00</Finish>
                 <Unit>3</Unit>
