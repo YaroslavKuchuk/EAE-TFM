@@ -1,0 +1,91 @@
+﻿ID,Actividad,Duración (h),ES (h),EF (h),LS (h),LF (h),Holgura total (h),Holgura libre (h),Crítica CPM,Crítica ProjectLibre
+3,Formalización del inicio del proyecto,40.0,0,40.0,0.0,40.0,0.0,0.0,Sí,1
+4,HITO: Inicio formal del proyecto,0.0,0,0.0,0.0,0.0,0.0,0.0,Sí,1
+5,Identificación y análisis de stakeholders,80.0,40.0,120.0,40.0,120.0,0.0,0.0,Sí,1
+6,Elaboración del plan de dirección del proyecto,120.0,120.0,240.0,120.0,240.0,0.0,0.0,Sí,1
+7,Aprobación del plan de dirección,40.0,240.0,280.0,240.0,280.0,0.0,0.0,Sí,1
+9,Seguimiento y control integrado,2720.0,280.0,3000.0,280.0,3000.0,0.0,0.0,Sí,1
+11,Gestión de cambios y riesgos,2720.0,280.0,3000.0,280.0,3000.0,0.0,0.0,Sí,1
+14,Análisis del modelo de negocio y requisitos operativos,80.0,280.0,360.0,280.0,360.0,0.0,0.0,Sí,1
+15,Diseño del modelo operativo,120.0,440.0,560.0,440.0,560.0,0.0,0.0,Sí,1
+17,Elaboración del plan de implantación,64.0,560.0,624.0,764.0,828.0,204.0,0.0,No,1
+18,Validación y aprobación del modelo operativo,56.0,624.0,680.0,828.0,884.0,204.0,0.0,No,1
+19,HITO: Modelo operativo y plan de implantación aprobados,0.0,680.0,680.0,3040.0,3040.0,2360.0,2360.0,No,0
+22,Definición de la forma jurídica y estructura societaria,80.0,40.0,120.0,520.0,600.0,480.0,0.0,No,0
+23,Preparación de la documentación de constitución,80.0,120.0,200.0,600.0,680.0,480.0,0.0,No,0
+24,Formalización notarial e inscripción registral,160.0,200.0,360.0,680.0,840.0,480.0,0.0,No,0
+26,"Altas fiscales, laborales y administrativas",80.0,360.0,440.0,840.0,920.0,480.0,0.0,No,0
+27,Apertura de cuentas y configuración financiera,80.0,440.0,520.0,1240.0,1320.0,800.0,0.0,No,0
+28,Preparación de contratos y procedimientos administrativos,120.0,520.0,640.0,1320.0,1440.0,800.0,0.0,No,0
+29,HITO: Constitución legal y administrativa completada,0.0,640.0,640.0,3040.0,3040.0,2400.0,2400.0,No,0
+32,Definición de la estructura organizativa,80.0,360.0,440.0,360.0,440.0,0.0,0.0,Sí,1
+33,"Definición de perfiles, roles y responsabilidades",80.0,440.0,520.0,760.0,840.0,320.0,0.0,No,0
+34,HITO: Diseño organizativo y responsabilidades completados,0.0,520.0,520.0,3040.0,3040.0,2520.0,2520.0,No,0
+35,Elaboración del plan de contratación,80.0,520.0,600.0,840.0,920.0,320.0,0.0,No,0
+37,Selección y contratación del equipo inicial,240.0,600.0,840.0,920.0,1160.0,320.0,0.0,No,0
+39,Incorporación y onboarding del personal,120.0,840.0,960.0,1160.0,1280.0,320.0,0.0,No,0
+40,"Formación en procesos, herramientas y metodologías",120.0,960.0,1080.0,1280.0,1400.0,320.0,0.0,No,0
+41,Validación de la preparación operativa del equipo,40.0,1080.0,1120.0,1400.0,1440.0,320.0,0.0,No,0
+42,HITO: Equipo inicial incorporado y preparado,0.0,1120.0,1120.0,3040.0,3040.0,1920.0,1920.0,No,0
+45,Definición de las cinco líneas de servicio,128.0,680.0,808.0,884.0,1012.0,204.0,0.0,No,1
+46,Diseño del catálogo de servicios y entregables,136.0,808.0,944.0,1012.0,1148.0,204.0,0.0,No,1
+48,Definición del modelo de estimación y presupuestación,84.0,944.0,1028.0,1148.0,1232.0,204.0,0.0,No,1
+49,Diseño del modelo de delivery y gestión de proyectos,168.0,1028.0,1196.0,1232.0,1400.0,204.0,0.0,No,1
+50,Validación y aprobación del catálogo y modelo de delivery,40.0,1196.0,1236.0,1400.0,1440.0,204.0,204.0,No,1
+52,Elaboración de plantillas y estándares de entrega,120.0,944.0,1064.0,1280.0,1400.0,336.0,132.0,No,1
+55,Definición de requisitos tecnológicos y arquitectura de referencia,120.0,560.0,680.0,560.0,680.0,0.0,0.0,Sí,1
+56,Selección de proveedores cloud y herramientas tecnológicas,80.0,680.0,760.0,680.0,760.0,0.0,0.0,Sí,1
+57,Configuración de infraestructura cloud y entornos de trabajo,160.0,760.0,920.0,760.0,920.0,0.0,0.0,Sí,1
+59,Implantación de repositorios y pipelines CI/CD,120.0,920.0,1040.0,920.0,1040.0,0.0,0.0,Sí,1
+60,Configuración de herramientas de gestión y documentación,80.0,1040.0,1120.0,1040.0,1120.0,0.0,0.0,Sí,1
+62,Implantación de herramientas de testing y control de calidad,120.0,1120.0,1240.0,1120.0,1240.0,0.0,0.0,Sí,1
+63,"Configuración de monitorización, seguridad y copias de seguridad",120.0,1240.0,1360.0,1240.0,1360.0,0.0,0.0,Sí,1
+64,Pruebas de integración y validación de la plataforma tecnológica,80.0,1360.0,1440.0,1360.0,1440.0,0.0,0.0,Sí,1
+65,HITO: Plataforma tecnológica básica operativa,0.0,1440.0,1440.0,3040.0,3040.0,1600.0,1600.0,No,0
+68,Diseño de procesos de gestión de proyectos,80.0,640.0,720.0,1280.0,1360.0,640.0,320.0,No,0
+69,Diseño de procesos de gestión de riesgos y cambios,120.0,80.0,200.0,400.0,520.0,320.0,0.0,No,0
+71,Definición de estándares de calidad y criterios de aceptación,80.0,0,80.0,320.0,400.0,320.0,0.0,No,0
+72,Definición de políticas de seguridad y protección de datos,80.0,200.0,280.0,520.0,600.0,320.0,0.0,No,0
+74,Definición del modelo de gobierno y responsabilidades,80.0,560.0,640.0,1200.0,1280.0,640.0,0.0,No,0
+75,Implantación de procesos de documentación y gestión del conocimiento,120.0,280.0,400.0,600.0,720.0,320.0,0.0,No,0
+76,Configuración de indicadores KPI y mecanismos de seguimiento,120.0,400.0,520.0,720.0,840.0,320.0,0.0,No,0
+77,"A13 PROPUESTA: Pilotaje y ajuste de procesos, calidad y KPI",520.0,520.0,1040.0,840.0,1360.0,320.0,0.0,No,0
+78,Validación y aprobación del sistema de procesos y gobierno,80.0,1040.0,1120.0,1360.0,1440.0,320.0,0.0,No,0
+79,"HITO: Procesos de gestión, calidad y gobierno aprobados",0.0,1120.0,1120.0,3040.0,3040.0,1920.0,1920.0,No,0
+82,Desarrollo de la identidad corporativa y materiales de marca,120.0,680.0,800.0,1120.0,1240.0,440.0,0.0,No,1
+83,Diseño y desarrollo del sitio web corporativo,160.0,800.0,960.0,1240.0,1400.0,440.0,0.0,No,1
+85,Selección y configuración del sistema CRM,120.0,0,120.0,480.0,600.0,480.0,0.0,No,0
+86,Definición de procesos comerciales y gestión de clientes,120.0,120.0,240.0,600.0,720.0,480.0,0.0,No,0
+88,Definición de la estrategia comercial y posicionamiento de mercado,120.0,560.0,680.0,1000.0,1120.0,440.0,0.0,No,1
+89,Elaboración de propuestas comerciales y materiales de ventas,120.0,680.0,800.0,1280.0,1400.0,600.0,120.0,No,0
+90,Preparación de canales digitales y herramientas de marketing,80.0,240.0,320.0,720.0,800.0,480.0,0.0,No,0
+91,"A13 PROPUESTA: Prueba de CRM, campañas y embudo comercial",600.0,320.0,920.0,800.0,1400.0,480.0,40.0,No,0
+92,Validación y aprobación de las capacidades comerciales,40.0,960.0,1000.0,1400.0,1440.0,440.0,0.0,No,1
+95,Confirmación del alcance y requisitos de los tres proyectos piloto,80.0,280.0,360.0,1240.0,1320.0,960.0,0.0,No,0
+97,Planificación detallada de los proyectos piloto,120.0,360.0,480.0,1320.0,1440.0,960.0,520.0,No,0
+99,Formalización de contratos y requisitos de los tres clientes piloto,80.0,1000.0,1080.0,1440.0,1520.0,440.0,440.0,No,1
+101,Preparación de equipos y entornos de ejecución,80.0,1440.0,1520.0,1440.0,1520.0,0.0,0.0,Sí,1
+102,HITO: Contratos y entornos de los tres pilotos preparados,0.0,1520.0,1520.0,3040.0,3040.0,1520.0,1520.0,No,0
+104,Ejecución del proyecto piloto 1,480.0,1520.0,2000.0,1520.0,2000.0,0.0,0.0,Sí,1
+105,HITO: Inicio de ejecución de los tres pilotos,0.0,1520.0,1520.0,3040.0,3040.0,1520.0,1520.0,No,0
+107,Ejecución del proyecto piloto 2,480.0,1520.0,2000.0,1520.0,2000.0,0.0,0.0,Sí,1
+109,Ejecución del proyecto piloto 3,480.0,1520.0,2000.0,1520.0,2000.0,0.0,0.0,Sí,1
+111,Evaluación de resultados y recopilación de indicadores KPI,120.0,2000.0,2120.0,2000.0,2120.0,0.0,0.0,Sí,1
+113,Validación y aceptación formal de los tres proyectos piloto,80.0,2120.0,2200.0,2120.0,2200.0,0.0,0.0,Sí,1
+114,HITO: Tres proyectos piloto aceptados formalmente,0.0,2200.0,2200.0,3040.0,3040.0,840.0,840.0,No,0
+117,Evaluación integral de los resultados del proyecto,80.0,2200.0,2280.0,2200.0,2280.0,0.0,0.0,Sí,1
+118,Verificación del cumplimiento de los objetivos y criterios de aceptación,80.0,2280.0,2360.0,2280.0,2360.0,0.0,0.0,Sí,1
+120,Validación de la preparación operativa de la agencia,80.0,2600.0,2680.0,2600.0,2680.0,0.0,0.0,Sí,1
+121,HITO: Preparación operativa de la agencia validada,0.0,2680.0,2680.0,3040.0,3040.0,360.0,360.0,No,0
+123,Preparación de la documentación de transición a operaciones,120.0,2360.0,2480.0,2360.0,2480.0,0.0,0.0,Sí,1
+124,Transferencia de conocimientos y responsabilidades al equipo operativo,120.0,2480.0,2600.0,2480.0,2600.0,0.0,0.0,Sí,1
+125,Aprobación formal de la transición a operaciones,40.0,2680.0,2720.0,2680.0,2720.0,0.0,0.0,Sí,1
+126,HITO: Transición formal a operaciones aprobada,0.0,2720.0,2720.0,3040.0,3040.0,320.0,320.0,No,1
+127,Transición formal a operaciones aprobada,0.0,2720.0,2720.0,3040.0,3040.0,320.0,320.0,No,1
+130,Verificación final de entregables y compromisos contractuales,40.0,2720.0,2760.0,2720.0,2760.0,0.0,0.0,Sí,1
+131,"Evaluación final del presupuesto, cronograma y desempeño",40.0,2760.0,2800.0,2760.0,2800.0,0.0,0.0,Sí,1
+132,"Cierre administrativo, financiero y contractual",80.0,2920.0,3000.0,2920.0,3000.0,0.0,0.0,Sí,1
+134,Elaboración del informe final del proyecto,80.0,2800.0,2880.0,2800.0,2880.0,0.0,0.0,Sí,1
+135,Documentación de lecciones aprendidas y recomendaciones,40.0,2880.0,2920.0,2880.0,2920.0,0.0,0.0,Sí,1
+137,Presentación y aprobación del acta de cierre del proyecto,40.0,3000.0,3040.0,3000.0,3040.0,0.0,0.0,Sí,1
+138,HITO: Cierre formal del proyecto completado,0.0,3040.0,3040.0,3040.0,3040.0,0.0,0.0,Sí,1
